@@ -6,7 +6,7 @@ pytz
 PyYAML
 python-jose
 PyGithub
-lpshipit @ git+ssh://github.com/philroche/lpshipit.git@features/configure-proxy-in-lxc-container
+lpshipit
 joblib
 GitPython
 tox
